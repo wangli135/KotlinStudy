@@ -9,6 +9,13 @@ open class Foo {
             println("Foo")
             return 3
         }
+
+    fun isValid(): Boolean = true
+
+    fun doSomething() {
+        println("foo do something")
+    }
+
 }
 
 class Bar1 : Foo() {
