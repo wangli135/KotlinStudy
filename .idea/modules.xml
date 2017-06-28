@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/KotlinStudy.iml" filepath="$PROJECT_DIR$/KotlinStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/class/class.iml" filepath="$PROJECT_DIR$/class/class.iml" />
       <module fileurl="file://$PROJECT_DIR$/flowcontrol/flowcontrol.iml" filepath="$PROJECT_DIR$/flowcontrol/flowcontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function/funandlambda.iml" filepath="$PROJECT_DIR$/function/funandlambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/problems.iml" filepath="$PROJECT_DIR$/problems/problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog1/syntax.iml" filepath="$PROJECT_DIR$/blog1/syntax.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog2/types.iml" filepath="$PROJECT_DIR$/blog2/types.iml" />
     </modules>
